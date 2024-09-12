@@ -6,4 +6,4 @@ Disallow: /404.html
 Disallow: /*?page=
 
 # Sitemap location
-Sitemap: https://puhtaaksi.fi/sitemap.xml
+Sitemap: https://www.puhtaaksi.fi/sitemap.xml

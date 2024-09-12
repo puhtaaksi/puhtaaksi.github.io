@@ -4,32 +4,32 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://puhtaaksi.fi/</loc>
+        <loc>https://www.puhtaaksi.fi/</loc>
         <priority>1.00</priority>
-        <xhtml:link rel="alternate" hreflang="fi" href="https://puhtaaksi.fi/" />
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.puhtaaksi.fi/" />
     </url>
     <url>
-        <loc>https://puhtaaksi.fi/ikkunoiden-pesu-riihimaki</loc>
+        <loc>https://www.puhtaaksi.fi/ikkunoiden-pesu-riihimaki</loc>
         <priority>0.80</priority>
         <xhtml:link rel="alternate" hreflang="fi"
-            href="https://puhtaaksi.fi/ikkunoiden-pesu-riihimaki" />
+            href="https://www.puhtaaksi.fi/ikkunoiden-pesu-riihimaki" />
     </url>
     <url>
-        <loc>https://puhtaaksi.fi/ikkunoiden-pesu-mantsala</loc>
+        <loc>https://www.puhtaaksi.fi/ikkunoiden-pesu-mantsala</loc>
         <priority>0.80</priority>
         <xhtml:link rel="alternate" hreflang="fi"
-            href="https://puhtaaksi.fi/ikkunoiden-pesu-mantsala" />
+            href="https://www.puhtaaksi.fi/ikkunoiden-pesu-mantsala" />
     </url>
     <url>
-        <loc>https://puhtaaksi.fi/ikkunoiden-pesu-jarvenpaa</loc>
+        <loc>https://www.puhtaaksi.fi/ikkunoiden-pesu-jarvenpaa</loc>
         <priority>0.80</priority>
         <xhtml:link rel="alternate" hreflang="fi"
-            href="https://puhtaaksi.fi/ikkunoiden-pesu-jarvenpaa" />
+            href="https://www.puhtaaksi.fi/ikkunoiden-pesu-jarvenpaa" />
     </url>
     <url>
-        <loc>https://puhtaaksi.fi/ikkunoiden-pesu-lahti</loc>
+        <loc>https://www.puhtaaksi.fi/ikkunoiden-pesu-lahti</loc>
         <priority>0.80</priority>
         <xhtml:link rel="alternate" hreflang="fi"
-            href="https://puhtaaksi.fi/ikkunoiden-pesu-lahti" />
+            href="https://www.puhtaaksi.fi/ikkunoiden-pesu-lahti" />
     </url>
 </urlset>
