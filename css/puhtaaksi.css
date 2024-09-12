@@ -1720,6 +1720,12 @@ strong {
   .handle-bar {
     height: 300px;
   }
+
+  .page-links-flex {
+    grid-column-gap: 24px;
+    grid-row-gap: 16px;
+    justify-content: space-between;
+  }
 }
 
 #w-node-_7c09cb0c-5c39-76cb-9c19-0196d8659444-d86593a7 {
