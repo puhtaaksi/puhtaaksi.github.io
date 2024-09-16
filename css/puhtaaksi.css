@@ -1610,7 +1610,7 @@ strong {
   }
 
   .get-in-right {
-    padding: 20px;
+    padding: 24px 20px;
     font-size: 14px;
   }
 
@@ -1674,11 +1674,19 @@ strong {
     margin-top: 24px;
   }
 
+  .get-block-2 {
+    grid-column-gap: 20px;
+    grid-row-gap: 16px;
+    grid-template-rows: auto;
+    grid-template-columns: 74px 1fr;
+    grid-auto-columns: 1fr;
+    display: grid;
+  }
+
   .get-in-data-2 {
     grid-column-gap: 0px;
     grid-row-gap: 30px;
     flex-direction: column;
-    padding-bottom: 40px;
   }
 
   .yhteystiedot {
@@ -1735,6 +1743,11 @@ strong {
     grid-column-gap: 24px;
     grid-row-gap: 16px;
     justify-content: space-between;
+  }
+
+  .contact-profile-image {
+    width: 72px;
+    height: 72px;
   }
 }
 
