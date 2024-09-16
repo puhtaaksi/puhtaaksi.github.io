@@ -360,8 +360,7 @@ strong {
 
 .address {
   color: #999;
-  width: 90px;
-  max-width: 221px;
+  width: 180px;
   font-size: 14px;
   font-weight: 500;
 }
@@ -508,7 +507,7 @@ strong {
   border-radius: 6px;
   width: 100%;
   max-width: 45%;
-  padding: 50px;
+  padding: 44px;
 }
 
 .discuss-form {
@@ -889,8 +888,8 @@ strong {
 }
 
 .get-block-2 {
-  grid-column-gap: 14px;
-  align-items: flex-start;
+  grid-column-gap: 24px;
+  align-items: center;
   width: 100%;
   display: flex;
 }
@@ -1174,6 +1173,17 @@ strong {
   color: #999;
   font-size: 12px;
   text-decoration: none;
+}
+
+.contact-profile-image {
+  object-fit: cover;
+  border-radius: 50%;
+  width: 84px;
+  height: 84px;
+}
+
+.contact-profile-image.pauli {
+  object-position: 50% 16%;
 }
 
 @media screen and (min-width: 1280px) {
